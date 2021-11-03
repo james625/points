@@ -2,6 +2,10 @@ To run the app, in the project directory:
 
 Run `npm start`
 
+Add transactions using the input box.
+
+Spend points using the spend input.
+
 Notes:
 
 The app is designed to display only the points of the current user and the spending
