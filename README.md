@@ -1,5 +1,7 @@
 To run the app, in the project directory:
 
+Run `npm install`
+
 Run `npm start`
 
 Add transactions using the input box.
